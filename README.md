@@ -7,16 +7,23 @@ His specialties include pixel-perfect and responsive HTML/CSS, as well as single
 Thanks to his proactive attitude, effective communication, and flexibility, he can adapt to any team condition in a short amount of time.
 
 ✔️ React/Next/Gatsby, Vue/Nuxt
+
 ✔️ HTML, CSS, SCSS/LESS, JavaScript, TypeScript
+
 ✔️ PSD/Zeplin/Figma/XD to HTML
+
 ✔️ GSAP, ThreeJS
+
 ✔️ Responsive frameworks - Bootstrap, TailwindCSS, Material-UI, Ant-Design
 
 ✔️ Node (Express, Sails, Koa), Strapi, Contentful, WordPress, DatoCMS
+
 ✔️ GraphQL, Headless CMS, Serverless, Microservices
+
 ✔️ AWS, GCP, Azure, Firebase
 
 Please check my Upwork profile here.
+
 https://www.upwork.com/freelancers/~01cfe0fd207e0fd6b9
 
 <!---
